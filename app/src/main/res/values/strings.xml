@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">In Class 2B</string>
+    <string name="label">Inches:</string>
+    <string name="resultsLabel">Result:</string>
+    <string name="convertedValue" />
+    <string name="meters">To Meters</string>
+    <string name="feet">To Feet</string>
+    <string name="miles">To Miles</string>
+    <string name="clear">Clear All</string>
+    <string name="convertButton">Convert</string>
+    <string name="toast">Please enter a value</string>
+    <string name="metersText">meters</string>
+    <string name="feetText">feet</string>
+    <string name="milesText">miles</string>
+</resources>
